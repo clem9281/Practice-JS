@@ -1,0 +1,7 @@
+cat
+tac
+act
+cta
+mat
+mta
+tam
